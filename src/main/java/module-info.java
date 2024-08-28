@@ -4,4 +4,5 @@ module exerciciosjavafx {
     requires org.kordamp.bootstrapfx.core;
 
     opens basico;
+    opens layout;
 }
