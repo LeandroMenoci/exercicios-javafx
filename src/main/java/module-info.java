@@ -5,4 +5,5 @@ module exerciciosjavafx {
 
     opens basico;
     opens layout;
+    opens fxml;
 }
