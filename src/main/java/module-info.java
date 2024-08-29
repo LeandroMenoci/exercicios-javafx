@@ -1,7 +1,7 @@
 module exerciciosjavafx {
     requires javafx.controls;
     requires javafx.fxml;
-    requires org.kordamp.bootstrapfx.core;
+    requires org.controlsfx.controls;
     requires java.desktop;
 
     opens basico;
